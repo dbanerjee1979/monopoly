@@ -32,7 +32,7 @@ https://monopoly.fandom.com/wiki/Monopoly_Board
 <table>
     <tr>
         <td align="center">Free Parking</td>
-        <td align="center" style="background-color: red;">(red)<br/>Kentucky Avenue<br/>$220</td>
+        <td align="center"><a href="#kentucky_ave">(red)<br/>Kentucky Avenue<br/>$220</a></td>
         <td align="center">Chance</td>
         <td align="center">(red)<br/>Indiana Avenue<br/>$220</td>
         <td align="center">(red)<br/>Illinois Avenue<br/>$240</td>
@@ -581,6 +581,7 @@ A title deed for each property is given to a player to signify ownership, and sp
 
 ##### Red Group #####
 
+<a name="kentucky_ave"></a>
 <table>
     <tr><td align="center">Kentucky Avenue</td></tr>
     <tr><td align="center">Rent $18</td></tr>
