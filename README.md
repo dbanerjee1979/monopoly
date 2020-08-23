@@ -32,7 +32,7 @@ https://monopoly.fandom.com/wiki/Monopoly_Board
 <table>
     <tr>
         <td align="center">Free Parking</td>
-        <td align="center">(red)<br/>Kentucky Avenue<br/>$220</td>
+        <td align="center" bgcolor="red">(red)<br/>Kentucky Avenue<br/>$220</td>
         <td align="center">Chance</td>
         <td align="center">(red)<br/>Indiana Avenue<br/>$220</td>
         <td align="center">(red)<br/>Illinois Avenue<br/>$240</td>
