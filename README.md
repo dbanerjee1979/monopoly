@@ -29,9 +29,15 @@ Implement the rules based on the wikipedia page:
 
 https://monopoly.fandom.com/wiki/Monopoly_Board
 
+<style type="text/css">
+    .foo {
+        background-color: red;
+    }
+</style>
+
 <table>
     <tr>
-        <td align="center">Free Parking</td>
+        <td align="center" class="foo">Free Parking</td>
         <td align="center" style="background-color: red;">(red)<br/>Kentucky Avenue<br/>$220</td>
         <td align="center">Chance</td>
         <td align="center">(red)<br/>Indiana Avenue<br/>$220</td>
