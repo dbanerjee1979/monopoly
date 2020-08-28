@@ -29,6 +29,8 @@ Implement the rules based on the wikipedia page:
 
 https://monopoly.fandom.com/wiki/Monopoly_Board
 
+![Monopoly Board](docs/images/monopoly_board.svg)
+
 <table>
     <tr>
         <td align="center">Free Parking</td>
